@@ -9,7 +9,7 @@ export default function MaintenancePage(){
         <Fade bottom>
         <div className="maintenance-content">
             <h1 className="maintenance-heading">Site currently under maintenance</h1>
-            <p className="maintenance-link"><a className="maintenance-link" href="https://pornhub.com">Resume</a></p>
+            <p className="maintenance-link"><a className="maintenance-link" href="https://google.com">Resume</a></p>
             <p className="maintenance-link"><a className="maintenance-link" href="https://www.linkedin.com/in/nreuben/">LinkedIn</a></p>
             <p className="maintenance-link"><a className="maintenance-link" href="mailto:nitishreuben2600@gmail.com">nitishreuben2600@gmail.com</a></p>
         </div>
